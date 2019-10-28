@@ -20,8 +20,8 @@ package org.japo.java.main;
  * @author Mario Merlos Abella <mario.merlos.alum@iescamp.es>
  */
 public class Main {
-    
-    public static void main(String[] args){
-    System.out.printf("%02d : %02d ", 8, 25);
+
+    public static void main(String[] args) {
+        System.out.printf("%02d : %02d ", 8, 25);
     }
 }
